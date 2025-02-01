@@ -1,0 +1,7 @@
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\bin\Debug\Area of Triange;.exe.config
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\bin\Debug\Area of Triange;.exe
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\bin\Debug\Area of Triange;.pdb
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\obj\Debug\Area of Triange;.csproj.AssemblyReference.cache
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\obj\Debug\Area of Triange;.csproj.CoreCompileInputs.cache
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\obj\Debug\Area of Triange;.exe
+C:\Users\ERC\Desktop\C#\Area of Triange;\Area of Triange;\obj\Debug\Area of Triange;.pdb
